@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2c5364,100:58a6ff&height=200&section=header&text=Hi%2C%20I%27m%20Lars&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20%C2%B7%20Embedded%20%C2%B7%20Maker&descSize=20&descAlignY=55" width="100%" alt="banner"/>
 
   <a href="https://github.com/LqrsLT">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+%26+Embedded+Developer;C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Python;Building+things+that+blink%2C+spin+and+render;Always+tinkering+with+hardware" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+%26+Embedded+Developer;C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Python;Building+things+that+blink%2C+spin+and+render;Always+tinkering+with+hardware;Currently+learning+Haskell" alt="Typing animation" />
   </a>
 
   <p>
@@ -17,6 +17,8 @@
 
 - 🔭 I build software and also the hardware it runs on: volumetric displays, smart mirrors, LED installations and other ESP32 projects
 - 💻 I mostly write **C++**, **Rust** & **Go**
+- 🌱 Currently learning **Haskell** for a functional programming course, and building a 2D game in it with Gloss
+- ⚡ Lately: an RGB lamp on an ESP32-S3 controlled from Google Home over Matter, a five-camera ESP32 rig that shoots one subject from every angle at once, and 3D-printable topographic maps of every country
 - 📱 Right now I am building hardware to spend less time on my phone
 - 📫 You can reach me at **LarsTokkie@gmail.com**
 
@@ -26,6 +28,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="C++ for embedded and performance stuff" alt="C++" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=rust" title="Rust when I want safe systems code" alt="Rust" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=go" title="Go for tools and servers" alt="Go" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=haskell" title="Haskell, which I am learning now" alt="Haskell" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=py" title="Python for quick scripts" alt="Python" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript for web stuff" alt="JavaScript" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino for microcontroller projects" alt="Arduino" width="48" height="48"/>
