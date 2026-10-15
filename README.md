@@ -18,7 +18,7 @@
 - 🔭 I build software and also the hardware it runs on: volumetric displays, smart mirrors, LED installations and other ESP32 projects
 - 💻 I mostly write **C++**, **Rust** & **Go**
 - 🌱 Currently learning **Haskell** for a functional programming course, and building a 2D game in it with Gloss
-- ⚡ Lately: an RGB lamp on an ESP32-S3 controlled from Google Home over Matter, a five-camera ESP32 rig that shoots one subject from every angle at once, 3D-printable topographic maps of every country, and a redesign of [rijschoolkalai.nl](https://rijschoolkalai.nl), the website and lesson shop of a driving school
+- ⚡ Lately: a redesign of [rijschoolkalai.nl](https://rijschoolkalai.nl), the website and lesson shop of a driving school
 - 📱 Right now I am building hardware to spend less time on my phone
 - 📫 You can reach me at **LarsTokkie@gmail.com**
 
