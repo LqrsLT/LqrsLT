@@ -19,6 +19,7 @@
 - 💻 I mostly write **C++**, **Rust** & **Go**
 - 🌱 Currently learning **Haskell** for a functional programming course, and building a 2D game in it with Gloss
 - ⚡ Lately: an RGB lamp on an ESP32-S3 controlled from Google Home over Matter, a five-camera ESP32 rig that shoots one subject from every angle at once, and 3D-printable topographic maps of every country
+- 🚗 Redesigning [rijschoolkalai.nl](https://rijschoolkalai.nl), the WordPress and WooCommerce site of a driving school in Waddinxveen. It is a live shop that takes real bookings, so I learned a lot about working safely on production
 - 📱 Right now I am building hardware to spend less time on my phone
 - 📫 You can reach me at **LarsTokkie@gmail.com**
 
