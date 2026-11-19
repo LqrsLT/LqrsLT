@@ -1,8 +1,10 @@
 name: Generate space map
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
+  # Paused while the map is off the profile: a build-time snapshot drifts hours
+  # behind the real sky between throttled cron runs.
+  # schedule:
+  #   - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches:
