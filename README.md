@@ -17,9 +17,9 @@
 
 - 🔭 I build software and also the hardware it runs on: volumetric displays, smart mirrors, LED installations and other ESP32 projects
 - 💻 I mostly write **C++**, **Rust** & **Go**
-- 🌱 Currently learning **Haskell** for a functional programming course, and building a 2D game in it with Gloss
-- ⚡ Lately: rebuilt [rijschoolkalai.nl](https://rijschoolkalai.nl), the website and lesson shop of the driving school where I got my motorcycle license
-- 📱 Right now I am building hardware to spend less time on my phone
+- 🌱 Currently doing a Computer Science minor at Utrecht University, learning about compilers and haskell
+- 🔭 Looking for a master’s programme that sounds fun (suggestions welcome!)
+- 🛠️ Learning by building: real projects for friends, from websites to hardware
 - 📫 You can reach me at **LarsTokkie@gmail.com**
 
 ## 🛠️ Tech Stack
